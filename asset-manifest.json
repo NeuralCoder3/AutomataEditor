@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AutomataEditor/static/css/main.060db035.css",
+    "main.js": "/AutomataEditor/static/js/main.8b6f2ffe.js",
+    "index.html": "/AutomataEditor/index.html",
+    "main.060db035.css.map": "/AutomataEditor/static/css/main.060db035.css.map",
+    "main.8b6f2ffe.js.map": "/AutomataEditor/static/js/main.8b6f2ffe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.060db035.css",
+    "static/js/main.8b6f2ffe.js"
+  ]
+}
