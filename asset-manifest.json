@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/AutomataEditor/static/css/main.5f9cf813.css",
-    "main.js": "/AutomataEditor/static/js/main.3dfa1e04.js",
+    "main.js": "/AutomataEditor/static/js/main.ade14820.js",
     "index.html": "/AutomataEditor/index.html",
     "main.5f9cf813.css.map": "/AutomataEditor/static/css/main.5f9cf813.css.map",
-    "main.3dfa1e04.js.map": "/AutomataEditor/static/js/main.3dfa1e04.js.map"
+    "main.ade14820.js.map": "/AutomataEditor/static/js/main.ade14820.js.map"
   },
   "entrypoints": [
     "static/css/main.5f9cf813.css",
-    "static/js/main.3dfa1e04.js"
+    "static/js/main.ade14820.js"
   ]
 }
