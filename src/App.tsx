@@ -1022,7 +1022,7 @@ function App() {
               }
             )
           }
-          <Grid item>
+          {/* <Grid item>
             <ToggleButtonGroup
               value={admin ? 'admin' : 'normal'}
               exclusive
@@ -1044,7 +1044,7 @@ function App() {
                 Super
               </ToggleButton>
             </ToggleButtonGroup>
-          </Grid>
+          </Grid> */}
         </Grid>
       </div>
       <div style={{ "width": "100%" }}>
