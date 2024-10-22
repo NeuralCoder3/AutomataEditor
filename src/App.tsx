@@ -293,9 +293,10 @@ function App() {
   const [importText, setImportText] = React.useState('');
   const [showImportPopup, setShowImportPopup] = React.useState(false);
   const [exportLanguage, setExportLanguage] = React.useState('javascript');
-  const [adminOverride, setAdminOverride] = createPersistedState<boolean>("adminOverride")(false);
+  // const [adminOverride, setAdminOverride] = createPersistedState<boolean>("adminOverride")(false);
   const [adminViaPwd, setAdminViaPwd] = React.useState(false);
-  const admin = adminViaPwd || adminOverride;
+  // const admin = adminViaPwd || adminOverride;
+  const admin = adminViaPwd;
   const [ownPastes, setOwnPastes] = createPersistedState<Paste[]>("ownPastes")([]);
   const [showLoadPopup, setShowLoadPopup] = React.useState(false);
   const [showSelectPopup, setShowSelectPopup] = React.useState(false);
